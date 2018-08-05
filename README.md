@@ -1,0 +1,1 @@
+A game where you get to play as an alien in your alienship and your job is to dodge objects flying towards you. There is a scoreboard to keep track of your progress and the only buttons you need are the left and right arrow key to dodge the blocks.
